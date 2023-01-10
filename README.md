@@ -13,4 +13,4 @@ In the future I would like to add more features to the face, and change some of 
 
 # License information 🆗
 
-This project is licensed under the MiT license 
+This project is licensed under the [MiT license](https://github.com/ginajur/pacmangame/blob/add-license-1/LICENSE.MD) 
